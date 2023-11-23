@@ -1,0 +1,359 @@
+*{
+ margin: 0;
+ font-family: arial;
+ border: border-box;
+}
+
+  /* navbar css  */
+ /* .navbarr{ 
+   margin-top: 10px;
+    background-color: #0f1111;
+    color: white;
+   
+   
+    
+}
+.nav-logo{
+    height: 50px;
+    width: 100px;
+}
+.logo{
+    height: 50px;
+    
+    background-size: cover;
+  
+}
+ box border for navbar components 
+.one{
+border: 2px solid transparent;
+}
+.one:hover{
+    border: 1px solid white;
+}
+ nav del add 
+
+.add-icon{
+    display: flex;
+    align-items: center;
+}
+
+.add-one{
+    margin-left: 15px;
+font-size: 0.3 rem;
+}
+.add-sec{
+    margin-left: 5px;
+font-size: 1rem;
+}
+ nav search 
+.search{
+    display: flex;
+    justify-content: space-evenly;
+    width: 620px;
+    height: 40px;
+    background-color: pink;
+    border-radius: 3px;
+}
+.search-select{
+    background-color: #f3f3f3;
+    width: 50px;
+    text-align: center;
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+    border: none;
+}
+.search-input{
+    width: 100%;
+    font-size: 1rem;
+    border: none;
+}
+.search-icon{
+    width: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2rem;
+    background-color: #febd68;
+    border-top-right-radius:4px;
+    border-bottom-right-radius: 4px;
+    color: #0f1111;
+
+}
+  navbar signin 
+span{
+font-size: 0.7rem;
+}
+.nav-sec{
+font-size: 0.85rem;
+font-weight: 700;
+}
+
+navbar cart 
+
+.nav-cart i{
+    font-size: 30px;
+}
+.nav-cart{
+    font-size: 0.85rem;
+    font-weight: 700;
+}
+.nav-login{
+    background-color: #febd68;
+    font-size: 0.9rem;
+    height: 40px;
+    width: 70px;
+} */
+
+
+.cartnav{
+
+    text-decoration: none;
+}
+/* slider */
+.carousel-item{
+    
+    height: 300px;
+}
+.container{
+    margin-top: 20px;
+}
+.sliderr{
+    margin-bottom: 5px;
+}
+
+/* offer grid */
+
+.off{
+
+}
+.offer{
+  display: flex;
+  justify-content: space-evenly; 
+   
+}
+
+/* footer */
+.two{
+    background-color: #163434;
+    color: white;
+    margin-top: 5px;
+   justify-content: space-around;
+    height: auto;
+    
+}
+/* login page */
+/* main div */
+.Three{
+   margin-left: 500px;
+  
+    
+    
+}
+/* child div */
+.four{
+    height: 600px;
+    width: 500px;
+    background-color: rgb(163, 199, 231);
+   padding: 3px;
+    border: 2px solid black;
+    border-radius: 5px;
+    margin-top: 10px;
+    
+}
+/* mail or number */
+.mail{
+     width: 400px !important;
+    margin-left: 34px;
+}
+.five{
+  margin-left: 38px;
+  font-size: 20px;
+ 
+  
+}
+/* sign in name class */
+.six{
+    margin-top: 10px;
+}
+/* continue btn */
+.seven{
+    margin-left: 137px;
+    width: 200px;
+}
+ .eight{
+    display: flex;
+  
+    justify-content: center;
+ }
+ .face{
+    margin-right: 10px;
+ }
+ .ten{
+    margin-top: 10px;
+    font-size: ;
+ }
+ .borderright{
+    border-right: none !important;
+    height: 450px !important;
+    margin-top: 70px !important;
+ }
+ .borderleft{
+    border-left: none !important;
+    height: 450px !important;
+    margin-top: 70px !important;
+ 
+ }
+ .proimg{
+    height: 300px;
+    width: 250px;
+    object-fit: contain;
+ }
+
+ .offerbadge{
+    position: absolute;
+    top: 15px;
+    left: 15px;
+ }
+
+ .wishbadge{
+    position: absolute;
+    top: 15px;
+    right: 15px;
+ }
+
+ .protitle{
+    font-style: italic;
+    font-weight: 800;
+ }
+
+ .price{
+    font-weight: 800;
+ }
+ .faq{
+    font-family: math;
+ }
+
+
+
+ /* testimonials */
+.test{
+    justify-content: cenetr;
+    text-align: center;
+    
+    font-size: 50px;
+    margin-top: 20px;
+    font-family: math;
+}
+
+ 
+
+ .img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+ }
+ .imgg{
+    display: flex;
+    justify-content: space-evenly;
+ }
+ .text{
+text-align: center  ;
+ }
+ /* detail page */
+ .adapt{
+    height: 200px;
+    width: 200px !important;
+ }
+ .detailinfo{
+    display: flex;
+  
+    text-align: center;
+ }
+
+ .detailbtn{
+     width: 300px !important;
+  margin-left: 185px;
+  margin-bottom: 15px;
+ }
+ .detailbtns{
+    width: 25px;
+    margin-left: 248px !important;
+    margin-bottom: 10px;
+ }
+ .adaptimg{
+   
+    justify-content: center;
+    align-items: center;
+ }
+ .cartimg{
+    height: 300px;
+    width: 300px;
+ }
+ 
+ .imgcard1{
+    height: 278px;
+ }
+ 
+.detailaddbtn{
+    width: 230px;
+    margin-left: 220px;
+}
+.kartik{
+    text-decoration: none !important;
+    color: white;
+}
+
+.formselectt{
+    width: 100px !important;
+    margin-left: 10px;
+}
+.textt{
+    color: blueviolet;
+}
+
+.del{
+    width: 200px;
+    margin-right: 20px;
+}
+.cardwidth{
+  width: 300px !important;
+}
+.delsub{
+    display: flex;
+    text-align: center;
+   justify-content: center;
+}
+ .foot{
+    text-align: center;
+ }
+
+
+ /* thumbnail css */
+ .small-img img{
+    height: 92px;
+    margin: 10px 0;
+    cursor: pointer;
+    display: block;
+    opacity: 0.6;
+    
+ }
+ .small-img img:hover{
+  opacity: 1;
+ }
+
+ 
+ .big-img{
+    height: 100px;
+
+    align-items: center;
+    
+ }
+ .bigg-img{
+    justify-content: center;
+    align-items:center ;
+ }
+ 
+ 
+ 
+
+            
