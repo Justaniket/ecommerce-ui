@@ -354,6 +354,20 @@ text-align: center  ;
  }
  
  
- 
+span{
+    position: absolute;
+}
 
-            
+
+.password-container{
+    position: relative;
+}
+
+.eye-icon {
+    position: absolute;
+    top: 63%;
+    right: 135px;
+    bottom: 127px;
+    transform: translateY(-50%);
+    cursor: pointer;
+}
